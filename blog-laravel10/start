@@ -1,0 +1,4 @@
+cd blog-laravel10
+alias sail="./vendor/bin/sail"
+service apache2 stop
+sail up
